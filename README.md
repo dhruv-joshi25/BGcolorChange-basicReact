@@ -7,7 +7,7 @@ This is a simple React application that allows users to change the background co
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Start the application](#Start the application)
+- [Start the application](#Start_the_application)
 - [Contributing](#Contributing)
 
 ## Features
@@ -32,7 +32,7 @@ Before you begin, ensure you have the following installed:
 **Install dependencies:** 
 <br>npm install 
 
-## Start the application:
+## Start_the_application:
 npm start
 <br>Open your browser and visit http://localhost:3000.
 
