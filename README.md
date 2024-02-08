@@ -29,13 +29,13 @@ cd BGcolorChange-basicReact
 
 **Install dependencies:** 
 <br>npm install
-
-**Start the application:**
+<hr>
+## Start the application:
 <br>npm start
 <br>Open your browser and visit http://localhost:3000.
 
-
-**Contributing**
+<hr>
+## Contributing
 <br>If you want to contribute to this project, follow these steps:
 <br>Fork the repository.
 <br>Create a new branch:
