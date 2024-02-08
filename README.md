@@ -25,6 +25,7 @@ Before you begin, ensure you have the following installed:
    git clone https://github.com/dhruv-joshi25/BGcolorChange-basicReact.git
 
 **Navigate to the project directory:**
+
 cd BGcolorChange-basicReact
 
 **Install dependencies:** 
