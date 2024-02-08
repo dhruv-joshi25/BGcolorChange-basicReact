@@ -1,9 +1,60 @@
-# React + Vite
+# React App: Background Color Changer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple React application that allows users to change the background color by clicking a button. It serves as a basic demonstration of core React concepts.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# BGcolorChange-basicReact
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+- Click a button to change the background color.
+- Demonstrates basic React state management.
+
+## Prerequisites
+
+Before you begin, ensure you have the following installed:
+
+- [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/)
+
+## Installation
+
+- Clone the repository: 
+   git clone https://github.com/dhruv-joshi25/BGcolorChange-basicReact.git
+
+**Navigate to the project directory:**
+
+cd BGcolorChange-basicReact
+
+**Install dependencies:**
+npm install
+
+**Start the application:**
+npm start
+Open your browser and visit http://localhost:3000.
+
+
+**Contributing**
+If you want to contribute to this project, follow these steps:
+
+Fork the repository.
+
+Create a new branch:
+
+git checkout -b feature-branch
+
+
+**Make your changes and commit:**
+
+git add .
+git commit -m "Add new feature"
+Push your changes to your fork:
+git push origin feature-branch
+Open a pull request.
+
