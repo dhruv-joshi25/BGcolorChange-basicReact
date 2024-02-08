@@ -27,24 +27,24 @@ Before you begin, ensure you have the following installed:
 **Navigate to the project directory:**
 cd BGcolorChange-basicReact
 
-**Install dependencies:** <br/>
-npm install
+**Install dependencies:** 
+-npm install
 
-**Start the application:** <br/>
-npm start
-Open your browser and visit http://localhost:3000.
+**Start the application:**
+-npm start
+-Open your browser and visit http://localhost:3000.
 
 
 **Contributing**
-If you want to contribute to this project, follow these steps:
-Fork the repository.
-Create a new branch:
-git checkout -b feature-branch
+-If you want to contribute to this project, follow these steps:
+-Fork the repository.
+-Create a new branch:
+-git checkout -b feature-branch
 
 
 **Make your changes and commit:**
-git add . <br/>
-git commit -m "Add new feature"<br/>
-Push your changes to your fork:<br/>
-git push origin feature-branch<br/>
-Open a pull request<br/>
+-git add . 
+-git commit -m "Add new feature"
+-Push your changes to your fork:
+-git push origin feature-branch
+-Open a pull request
