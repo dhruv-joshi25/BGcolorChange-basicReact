@@ -30,7 +30,6 @@ cd BGcolorChange-basicReact
 **Install dependencies:** 
 <br>npm install 
 
-
 ## Start the application:
 <br>npm start
 <br>Open your browser and visit http://localhost:3000.
@@ -40,7 +39,6 @@ cd BGcolorChange-basicReact
 <br>Fork the repository.
 <br>Create a new branch:
 <br>git checkout -b feature-branch
-
 
 **Make your changes and commit:**
 <br>git add . 
