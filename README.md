@@ -31,7 +31,7 @@ cd BGcolorChange-basicReact
 <br>npm install 
 
 ## Start the application:
-<br>npm start
+npm start
 <br>Open your browser and visit http://localhost:3000.
 
 ## Contributing
