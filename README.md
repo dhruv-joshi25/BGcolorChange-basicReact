@@ -7,10 +7,6 @@ This is a simple React application that allows users to change the background co
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -29,7 +25,6 @@ Before you begin, ensure you have the following installed:
    git clone https://github.com/dhruv-joshi25/BGcolorChange-basicReact.git
 
 **Navigate to the project directory:**
-
 cd BGcolorChange-basicReact
 
 **Install dependencies:**
@@ -42,11 +37,8 @@ Open your browser and visit http://localhost:3000.
 
 **Contributing**
 If you want to contribute to this project, follow these steps:
-
 Fork the repository.
-
 Create a new branch:
-
 git checkout -b feature-branch
 
 
@@ -57,4 +49,3 @@ git commit -m "Add new feature"
 Push your changes to your fork:
 git push origin feature-branch
 Open a pull request.
-
