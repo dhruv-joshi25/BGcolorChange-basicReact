@@ -43,9 +43,8 @@ git checkout -b feature-branch
 
 
 **Make your changes and commit:**
-
 git add .
 git commit -m "Add new feature"
 Push your changes to your fork:
 git push origin feature-branch
-Open a pull request.
+Open a pull request
