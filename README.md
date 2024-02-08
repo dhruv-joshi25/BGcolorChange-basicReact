@@ -40,8 +40,8 @@ If you want to contribute to this project, follow these steps:
 <br>Create a new branch:
 <br>git checkout -b feature-branch
 
-- **Make your changes and commit:**
-<br>git add . 
+- Make your changes and commit:
+git add . 
 <br>git commit -m "Add new feature"
 <br>Push your changes to your fork:
 <br>git push origin feature-branch
